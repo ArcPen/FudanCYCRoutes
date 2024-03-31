@@ -8,3 +8,4 @@
 * [高级拉练 (100-200km)](gao-ji-la-lian-100200km.md)
 * [骑行大pro (200km+)](qi-hang-da-pro-200km+.md)
 * [远征线路 (n days)](yuan-zheng-xian-lu-ndays.md)
+* [游记库](you-ji-ku.md)
