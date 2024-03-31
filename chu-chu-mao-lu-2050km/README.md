@@ -1,6 +1,6 @@
 # 初出茅庐 (20-50km)
 
-<figure><img src=".gitbook/assets/初出茅庐-路线图.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/初出茅庐-路线图.jpeg" alt=""><figcaption></figcaption></figure>
 
 新手向骑行线路，蜿蜒于古老的森林与静谧的乡间小道之间，仿佛一条沉睡的巨龙，等待着勇敢的骑手去唤醒它的活力。在这片土地上，每一个转弯都蕴藏着未知的挑战与风景的变换，正如每个新手骑手的内心，充满了对未知的好奇和对自由的渴望。
 
