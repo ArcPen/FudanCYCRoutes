@@ -39,4 +39,5 @@
   * [皖南小川藏 130km 2.5d](chang-tu-xian-lu-ndays/wan-nan-xiao-chuan-cang-130km-2.5d.md)
   * [环崇明 200km 3d](chang-tu-xian-lu-ndays/huan-chong-ming-200km-3d.md)
 * [干线库](gan-xian-ku.md)
-* [游记库](you-ji-ku.md)
+* [游记库](you-ji-ku/README.md)
+  * [千岛湖4+2骑游](https://thenights1.github.io/2024/01/30/firstlife/)
