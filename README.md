@@ -6,7 +6,7 @@
 
 路线包括各种长度，非远征路线的起点为邯郸或者枫林。路线的介绍中还包括曾经骑过这条路线的人的评价
 
-<figure><img src=".gitbook/assets/车协宣传-1" alt=""><figcaption><p>欢迎加入车协</p></figcaption></figure>
+<figure><img src=".gitbook/assets/车协宣传-1" alt="" width="375"><figcaption><p>欢迎关注车协</p></figcaption></figure>
 
 ### 阅读建议与索引
 
