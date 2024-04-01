@@ -35,11 +35,11 @@
   * [单日双湖/单日三百 300km](qi-hang-da-pro-200km+/dan-ri-shuang-hu-dan-ri-san-bai-300km.md)
   * [南京骑游/单日三百 314km](qi-hang-da-pro-200km+/nan-jing-qi-you-dan-ri-san-bai-314km.md)
   * [环上海 344km](qi-hang-da-pro-200km+/huan-shang-hai-344km.md)
-* [上海周边小长途](chang-tu-xian-lu-ndays/README.md)
+* [小型长途 (2-7 days)](chang-tu-xian-lu-ndays/README.md)
   * [皖南小川藏 130km 2.5d](chang-tu-xian-lu-ndays/wan-nan-xiao-chuan-cang-130km-2.5d.md)
   * [环崇明 200km 3d](chang-tu-xian-lu-ndays/huan-chong-ming-200km-3d.md)
-  * [上海-千岛湖-宣城 700km 4d\~6d](chang-tu-xian-lu-ndays/shang-hai-qian-dao-hu-xuan-cheng-700km-4d6d.md)
-* [长途路线](chang-tu-lu-xian.md)
+  * [上海-千岛湖-宣城 700km 4-6d](chang-tu-xian-lu-ndays/shang-hai-qian-dao-hu-xuan-cheng-700km-4d6d.md)
+* [远征路线 (n days)](chang-tu-lu-xian.md)
 * [干线库](gan-xian-ku.md)
 * [游记库](you-ji-ku/README.md)
   * [千岛湖4+2骑游](https://thenights1.github.io/2024/01/30/firstlife/)
@@ -48,3 +48,7 @@
     * [奎屯-乔尔码](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483787\&idx=1\&sn=1ef40e5a17f840b19269d01c35dd18e2\&chksm=cf4553fdf832daeb7dfe54f2268a2293106a4f375f3a6c17a87b014565eb1e85fa501c45e6ad\&token=1363911168\&lang=zh\_CN#rd)
     * [乔尔码-巴音布鲁克](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483842\&idx=1\&sn=25e1173b14bc0518a76acb0b57c16dae\&chksm=cf4553b4f832daa249bd3d576fb476ba45981d8c8a267656f4c4c6040612a67af5e68f3fdf75\&token=1363911168\&lang=zh\_CN#rd)
     * [巴音布鲁克-库车](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483854\&idx=1\&sn=6fc8c8d71b3a1b5c62b615f45e3a5f04\&chksm=cf4553b8f832daaeca3c2723cbf023f43d36c0f937fc8185b763bb9af10a6bf0dc5d01601bdf\&token=1363911168\&lang=zh\_CN#rd)
+
+## 附录
+
+* [格式规范](fu-lu/ge-shi-gui-fan.md)

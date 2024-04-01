@@ -8,9 +8,9 @@
 
 行者路书号：
 
+<figure><img src="../.gitbook/assets/环上海.png" alt="" width="375"><figcaption></figcaption></figure>
+
 建议行程安排：早六点从吴淞渡口坐第一班轮渡过江，早点赶路，路上多吃。建议打卡南汇海滨，金山渔村，金泽古镇，江苏界四处上海相对最东南西北之地。前期应尽量加快速度，以减少夜骑的时间。四处打卡地应补给水和食物，以防能量不支。
 
 整理人：董
-
-<figure><img src="../.gitbook/assets/环上海.png" alt=""><figcaption></figcaption></figure>
 
