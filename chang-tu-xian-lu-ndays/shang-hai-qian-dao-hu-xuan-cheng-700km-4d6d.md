@@ -68,11 +68,13 @@
 
 <figure><img src="https://i.imgur.com/nOsmwUa.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/rBSdBwd.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/rBSdBwd.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="https://i.imgur.com/YhNbTqe.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/dXCZvXS.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/dXCZvXS.jpg" alt="" width="375"><figcaption><p>徽派建筑</p></figcaption></figure>
+
+![皖南农村风光](https://i.imgur.com/fVPHPU0.jpeg) ![石桥](https://i.imgur.com/NwyWQa3.jpeg)
 
 ### day4 绩溪-宣城
 
@@ -82,4 +84,38 @@
 
 爬升：1800m
 
-今天比较虐
+今天比较虐。从绩溪出发，要先骑60km到榔桥镇，然后右拐进入宁泾路（s208）开始爬山。开爬之前，一定买好补给。
+
+推荐在旌德县吃早饭，感受一下这里的物价。
+
+今天大概率要夜骑，请把车灯充好电。天黑后下山的路回头弯不多，路很好。
+
+晚上到达宣城后，可以直接卧铺回上海，也可以第二天早上坐大巴。
+
+![右转开爬](https://i.imgur.com/lB5gRtt.jpeg)
+
+![路不错](https://i.imgur.com/verDIjw.jpeg)
+
+![国庆节去，正好秋收](https://i.imgur.com/Jt3Y9HP.jpeg)
+
+
+
+![你以为的皖南小川藏](https://i.imgur.com/DukJOmX.jpeg)
+
+<div data-full-width="true">
+
+<img src="https://i.imgur.com/ZebaAHh.jpeg" alt="实际的皖南小川藏" width="563">
+
+</div>
+
+![月亮湾](https://i.imgur.com/VMH1Yf1.jpeg)
+
+![进入宣传界前，有个很陡的坡](https://i.imgur.com/tEYUNJE.jpeg)
+
+<div align="center">
+
+<img src="https://i.imgur.com/TeFLjnE.jpeg" alt="路边摊" width="188">
+
+</div>
+
+![宣城站](https://i.imgur.com/cSztG49.jpeg)
