@@ -1,8 +1,10 @@
 # 浦东滨江世博大道夜骑 35km
 
+<figure><img src="../.gitbook/assets/浦东滨江世博大道夜骑.png" alt="" width="341"><figcaption></figcaption></figure>
+
 路程里程：35km
 
-行者路书号：3144292
+行者路书号：#3144292
 
 骑行强度：★★★☆☆
 

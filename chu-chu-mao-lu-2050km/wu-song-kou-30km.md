@@ -1,8 +1,10 @@
 # 吴淞口 30km
 
+<figure><img src="../.gitbook/assets/吴淞口.png" alt="" width="297"><figcaption></figcaption></figure>
+
 路程里程：30km
 
-行者路书号：2993500
+行者路书号：#2993500
 
 骑行强度：★★★☆☆
 

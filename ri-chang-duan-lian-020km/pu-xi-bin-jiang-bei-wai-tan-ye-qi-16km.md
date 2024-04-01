@@ -1,8 +1,10 @@
 # 浦西滨江北外滩夜骑 16km
 
+<figure><img src="../.gitbook/assets/浦西滨江北外滩.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：16km
 
-行者路书号：3140895
+行者路书号：#3140895
 
 骑行强度：★★☆☆☆
 

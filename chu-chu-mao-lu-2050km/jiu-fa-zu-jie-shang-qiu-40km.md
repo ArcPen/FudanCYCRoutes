@@ -1,5 +1,7 @@
 # 旧法租界赏秋 40km
 
+<figure><img src="../.gitbook/assets/旧法租界赏秋.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：40km+
 
 行者路书号：#3095165（其他参考路书：#2705145 / #2977867）

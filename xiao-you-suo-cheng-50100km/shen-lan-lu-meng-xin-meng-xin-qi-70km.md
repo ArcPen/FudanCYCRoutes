@@ -1,8 +1,10 @@
 # 申兰路萌新猛新骑 70km
 
+<figure><img src="../.gitbook/assets/申兰路.png" alt=""><figcaption></figcaption></figure>
+
 路程里程：70km
 
-行者路书号：3133470
+行者路书号：#3133470
 
 骑行强度：★★★☆☆～★★★★★（从1到无穷大）
 

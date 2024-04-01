@@ -1,8 +1,10 @@
 # 苏州河夜骑 30km
 
+<figure><img src="../.gitbook/assets/苏州河夜骑.png" alt="" width="367"><figcaption></figcaption></figure>
+
 路程里程：30km
 
-行者路书号：3070354
+行者路书号：#3070354
 
 骑行强度：★★☆☆☆
 

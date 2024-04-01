@@ -1,8 +1,10 @@
 # 浏河古镇 96km
 
+<figure><img src="../.gitbook/assets/浏河古镇.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：96km
 
-行者路书号：
+行者路书号：#971721
 
 骑行强度：★★☆☆☆～★★★★★
 

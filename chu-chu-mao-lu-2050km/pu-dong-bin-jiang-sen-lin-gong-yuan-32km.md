@@ -1,5 +1,7 @@
 # 浦东滨江森林公园 32km
 
+<figure><img src="../.gitbook/assets/浦东滨江森林公园.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：32km
 
 行者路书号：#2969286

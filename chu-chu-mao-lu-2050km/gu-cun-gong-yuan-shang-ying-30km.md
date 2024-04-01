@@ -1,8 +1,10 @@
 # 顾村公园赏樱 30km
 
+<figure><img src="../.gitbook/assets/顾村公园赏樱.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：30km
 
-行者路书号：3143701
+行者路书号：#3143701
 
 骑行强度：★★☆☆☆
 

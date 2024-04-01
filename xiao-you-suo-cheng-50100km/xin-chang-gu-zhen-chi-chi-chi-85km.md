@@ -1,8 +1,10 @@
 # 新场古镇吃吃吃 85km
 
+<figure><img src="../.gitbook/assets/新场古镇.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：85km
 
-行者路书号：3096770
+行者路书号：#3096770
 
 骑行强度：★★★★☆
 

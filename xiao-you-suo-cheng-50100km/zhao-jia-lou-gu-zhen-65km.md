@@ -2,9 +2,11 @@
 
 ⚠（2024.3.31）召稼楼古镇现暂停开放，具体恢复时间等待官方通知
 
+<figure><img src="../.gitbook/assets/召稼楼古镇.png" alt="" width="237"><figcaption></figcaption></figure>
+
 路程里程：65km
 
-行者路书号：3126804
+行者路书号：#3126804
 
 骑行强度：★★☆☆☆
 

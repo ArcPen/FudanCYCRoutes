@@ -1,8 +1,10 @@
 # 南翔古镇 40km
 
+<figure><img src="../.gitbook/assets/南翔古镇.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：40km
 
-行者路书号：3144157
+行者路书号：#3144157
 
 骑行强度：★★☆☆☆
 

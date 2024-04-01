@@ -1,8 +1,10 @@
 # 复兴岛 32km
 
+<figure><img src="../.gitbook/assets/复兴岛.png" alt="" width="375"><figcaption></figcaption></figure>
+
 路程里程：32km
 
-行者路书号：3144191
+行者路书号：#3144191
 
 骑行强度：★★☆☆☆
 
