@@ -36,6 +36,7 @@
   * [单日双湖/单日三百 300km](qi-hang-da-pro-200km+/dan-ri-shuang-hu-dan-ri-san-bai-300km.md)
   * [南京骑游/单日三百 314km](qi-hang-da-pro-200km+/nan-jing-qi-you-dan-ri-san-bai-314km.md)
   * [环上海 344km](qi-hang-da-pro-200km+/huan-shang-hai-344km.md)
+  * [复旦常熟（虞山）往返 210km](qi-hang-da-pro-200km+/fu-dan-chang-shu-yu-shan-wang-fan-210km.md)
 * [小型长途 (2-7 days)](chang-tu-xian-lu-ndays/README.md)
   * [皖南小川藏 130km 2.5d](chang-tu-xian-lu-ndays/wan-nan-xiao-chuan-cang-130km-2.5d.md)
   * [环崇明 200km 3d](chang-tu-xian-lu-ndays/huan-chong-ming-200km-3d.md)
