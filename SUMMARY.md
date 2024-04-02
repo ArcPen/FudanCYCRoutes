@@ -48,6 +48,7 @@
 * [远征路线 (n days)](chang-tu-lu-xian/README.md)
   * [独库公路 560km 6d](chang-tu-lu-xian/du-ku-gong-lu-560km-6d.md)
   * [海南远征 770km 9d](chang-tu-lu-xian/hai-nan-yuan-zheng-770km-9d.md)
+  * [G216民丰-改则 800km 8d](chang-tu-lu-xian/g216-min-feng-gai-ze-800km-8d.md)
 * [干线库](gan-xian-ku.md)
 * [游记库](you-ji-ku/README.md)
   * [千岛湖4+2骑游](https://thenights1.github.io/2024/01/30/firstlife/)
