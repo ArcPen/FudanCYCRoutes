@@ -6,7 +6,7 @@
 
 路线包括各种长度，非远征路线的起点为邯郸或者枫林。路线的介绍中还包括曾经骑过这条路线的人的评价
 
-<figure><img src=".gitbook/assets/车协宣传-1" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/车协宣传-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 欢迎加入复旦车协执委会，一起骑行，策划路线，和可爱的小伙伴们做一切和骑行有关或者不大有关的事情！
 
@@ -56,7 +56,7 @@
 
 ### 提issue
 
-欢迎在issue区提出自己的意见，可以是对于某条现有路径的修改建议，也可以是提出自己的新路线，参考下面路线模板的格式发布即可
+欢迎在issue区提出自己的意见，可以是对于某条现有路径的修改建议，也可以是提出自己的新路线，参考格式规范路线模板的格式发布即可
 
 ### 提PR
 
