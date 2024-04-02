@@ -1,7 +1,10 @@
 # Table of contents
 
 * [README](README.md)
-* [骑前须知](qi-qian-xu-zhi.md)
+* [骑行小知识](qi-qian-xu-zhi/README.md)
+  * [我该选择什么类型的自行车？](https://mp.weixin.qq.com/s/2sB37N1KiTzxtK9E336KIg)
+  * [旅行车：长途最佳选择](https://mp.weixin.qq.com/s/j3b40W9rg-9M6cUjW9GcdQ)
+  * [山地车：适用于各种地形](https://mp.weixin.qq.com/s/9Rd77l6JLshzKDEHAwXjHw)
 * [日常锻炼 (0-20km)](ri-chang-duan-lian-020km/README.md)
   * [苏州河乍浦路桥 16km](ri-chang-duan-lian-020km/su-zhou-he-zha-pu-lu-qiao-16km.md)
   * [浦西滨江北外滩夜骑 16km](ri-chang-duan-lian-020km/pu-xi-bin-jiang-bei-wai-tan-ye-qi-16km.md)
@@ -42,7 +45,9 @@
   * [皖南小川藏 130km 2.5d](chang-tu-xian-lu-ndays/wan-nan-xiao-chuan-cang-130km-2.5d.md)
   * [环崇明 200km 3d](chang-tu-xian-lu-ndays/huan-chong-ming-200km-3d.md)
   * [上海-千岛湖-宣城 700km 4-6d](chang-tu-xian-lu-ndays/shang-hai-qian-dao-hu-xuan-cheng-700km-4d6d.md)
-* [远征路线 (n days)](chang-tu-lu-xian.md)
+* [远征路线 (n days)](chang-tu-lu-xian/README.md)
+  * [海南远征 770km 9d](chang-tu-lu-xian/hai-nan-yuan-zheng-770km-9d.md)
+  * [独库公路 560km 6d](chang-tu-lu-xian/du-ku-gong-lu-560km-6d.md)
 * [干线库](gan-xian-ku.md)
 * [游记库](you-ji-ku/README.md)
   * [千岛湖4+2骑游](https://thenights1.github.io/2024/01/30/firstlife/)
@@ -51,6 +56,11 @@
     * [奎屯-乔尔码](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483787\&idx=1\&sn=1ef40e5a17f840b19269d01c35dd18e2\&chksm=cf4553fdf832daeb7dfe54f2268a2293106a4f375f3a6c17a87b014565eb1e85fa501c45e6ad\&token=1363911168\&lang=zh\_CN#rd)
     * [乔尔码-巴音布鲁克](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483842\&idx=1\&sn=25e1173b14bc0518a76acb0b57c16dae\&chksm=cf4553b4f832daa249bd3d576fb476ba45981d8c8a267656f4c4c6040612a67af5e68f3fdf75\&token=1363911168\&lang=zh\_CN#rd)
     * [巴音布鲁克-库车](https://mp.weixin.qq.com/s?\_\_biz=Mzg4MzY1NjQ3Mw==\&mid=2247483854\&idx=1\&sn=6fc8c8d71b3a1b5c62b615f45e3a5f04\&chksm=cf4553b8f832daaeca3c2723cbf023f43d36c0f937fc8185b763bb9af10a6bf0dc5d01601bdf\&token=1363911168\&lang=zh\_CN#rd)
+  * [西北骑行志2019](you-ji-ku/xi-bei-qi-hang-zhi-2019/README.md)
+    * [西北骑行志 (一)](https://mp.weixin.qq.com/s/2rAF\_XTqF8okSibGmY67gg)
+    * [西北骑行志 (二)](https://mp.weixin.qq.com/s/cyHgRoqI1H5lzm7a5BxRig)
+    * [西北骑行志 (三)](https://mp.weixin.qq.com/s/UM6exp6TZD29qR1uYwltiA)
+    * [西北骑行志 (四)](https://mp.weixin.qq.com/s/HW4EnPZl59OKsHi3q1mrLA)
 
 ## 附录
 
