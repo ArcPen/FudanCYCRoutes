@@ -62,6 +62,7 @@
     * [西北骑行志 (二)](https://mp.weixin.qq.com/s/cyHgRoqI1H5lzm7a5BxRig)
     * [西北骑行志 (三)](https://mp.weixin.qq.com/s/UM6exp6TZD29qR1uYwltiA)
     * [西北骑行志 (四)](https://mp.weixin.qq.com/s/HW4EnPZl59OKsHi3q1mrLA)
+  * [第十四届龙王山游记](you-ji-ku/di-shi-si-jie-long-wang-shan-you-ji.md)
 
 ## 附录
 
