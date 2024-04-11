@@ -72,6 +72,10 @@ pull request（PR）是github上常用的为项目提出更新和贡献的方式
 
 在gitbook.com网站上利用github账号登录，fork 本仓库到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
 
+## 最后的话
+
+如果本项目能够帮到你，欢迎留下你的star⭐
+
 
 
 
